@@ -40,7 +40,7 @@ How to capture learnings and convert them into actionable improvements. Includes
 A comprehensive checklist template for adding or updating role definitions in process documentation. Covers required fields (Role Summary, Responsibilities, Goals, Typical Communication, Interactions with Other Roles), acceptance criteria, and stakeholder review processes to ensure consistency and completeness.
 
 ### [Roles & Personas](octoacme-roles-and-personas.md)
-Definitions of key roles including Developers, Product Managers, Project Managers, Product Owners, Quality Assurance Lead, Release Manager, and Business Analyst. Each role includes responsibilities, goals, typical communication patterns, and how they interact with other roles in project delivery, risk management, and product quality.
+Definitions of key organizational roles across product, engineering, quality, and delivery functions. Each role includes responsibilities, goals, typical communication patterns, and how they interact with other roles in project delivery, risk management, and product quality. Current roles include Developers, Product Managers, Project Managers, Product Owners, Quality Assurance Lead, Release Manager, and Business Analyst.
 
 ## Key Principles
 
