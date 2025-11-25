@@ -26,6 +26,13 @@ Developers design, build, test, and deliver software components. They collaborat
 - PR descriptions and code review comments
 - Technical design docs when needed
 
+### Interactions with Other Roles
+- **Product Owner**: Collaborates on user story clarification, acceptance criteria, and technical feasibility during implementation
+- **Product Manager**: Partners on technical trade-offs, feasibility assessments, and long-term architecture decisions
+- **Project Manager**: Provides implementation status updates, flags technical risks, and collaborates on timeline estimates
+- **Quality Assurance Lead**: Works together on testability design, defect resolution, and test coverage improvements
+- **Business Analyst**: Clarifies technical constraints, business logic requirements, and provides implementation guidance
+
 ---
 
 ## Product Managers
@@ -48,6 +55,13 @@ Product Managers define what should be built to deliver customer and business va
 - Weekly alignment with PM and engineering leads
 - Roadmap updates and stakeholder briefings
 - Acceptance criteria and feature specs
+
+### Interactions with Other Roles
+- **Product Owner**: Aligns on product vision and roadmap priorities; delegates day-to-day backlog management and story refinement
+- **Developers**: Sets strategic direction, validates technical approaches, and makes final decisions on product trade-offs
+- **Project Manager**: Coordinates on timeline commitments, resource allocation, and stakeholder communication strategies
+- **Business Analyst**: Collaborates on market research, customer feedback analysis, and high-level business requirements
+- **Release Manager**: Ensures release content aligns with product strategy and customer commitments
 
 ---
 
@@ -72,6 +86,14 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Weekly status updates and stakeholder reports
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
+
+### Interactions with Other Roles
+- **Product Manager**: Aligns on roadmap timelines, resource needs, and manages stakeholder expectations for delivery commitments
+- **Product Owner**: Coordinates on sprint planning, scope changes, and dependencies that impact iteration goals
+- **Developers**: Tracks progress, removes blockers, and facilitates team communication and ceremony execution
+- **Quality Assurance Lead**: Monitors quality metrics and testing progress to identify timeline risks
+- **Release Manager**: Coordinates release schedules with project milestones and manages deployment communications
+- **Business Analyst**: Tracks requirements status and helps identify scope risks affecting project timelines
 
 ---
 

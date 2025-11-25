@@ -23,7 +23,7 @@ This checklist ensures that new or updated role definitions in OctoAcme process 
 - [ ] Written in clear, accessible language
 
 ### ☐ Responsibilities
-- [ ] List of 5-8 key responsibilities
+- [ ] List of 4-8 key responsibilities
 - [ ] Each responsibility starts with an action verb
 - [ ] Specific and measurable where possible
 - [ ] No overlap with responsibilities exclusively owned by other roles
