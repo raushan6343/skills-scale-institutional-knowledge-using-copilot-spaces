@@ -42,7 +42,7 @@ This checklist ensures that new or updated role definitions in OctoAcme process 
 - [ ] Reflects both formal and informal communication patterns
 
 ### ☐ Interactions with Other Roles
-- [ ] Documents relationships with at least 3-5 related roles
+- [ ] Documents relationships with 3-6 related roles (depending on role scope)
 - [ ] Describes how collaboration occurs for each relationship
 - [ ] Explains handoffs, dependencies, and coordination points
 - [ ] Clarifies areas of shared responsibility
